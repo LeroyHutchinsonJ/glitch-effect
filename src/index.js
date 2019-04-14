@@ -5,9 +5,8 @@ import "./styles.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="text middle" data-text="Glitch Effect">
       <h1>Hello CodeSandbox</h1>
-      <h2>Start editinasASg to see some magic happen!</h2>
     </div>
   );
 }
